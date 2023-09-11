@@ -75,5 +75,7 @@ pytest tests/e2e
 There are more useful commands in the makefile, have a look and try them out.
 
 ## Commands to run pytest
+```
 pipenv run pytest test_model.py test_allocate.py
 pipenv run pytest -rs 
+```
